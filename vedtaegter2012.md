@@ -189,5 +189,6 @@ Eksklusion kan af den ekskluderede forlanges behandlet på førstkommende
 generalforsamling, til hvilken vedkommende har møde- og taleret. Behandling
 skal finde sted umiddelbart efter godkendelse af beslutningsdygtighed.
 
+---
 
 Vedtægterne er senest ændret på generalforsamlingen 8. oktober 2012.
