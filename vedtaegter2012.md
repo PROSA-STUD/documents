@@ -184,29 +184,13 @@ Eksklusion kan af den ekskluderede forlanges behandlet på førstkommende
 generalforsamling, til hvilken vedkommende har møde- og taleret. Behandling
 skal finde sted umiddelbart efter godkendelse af beslutningsdygtighed.
 
-## § 13
-### Stk. 1.
-INTERESSEMEDLEMSKAB
-Personer, der jvf. § 4 stk. 2. er optaget med begrænsede
-medlemsrettigheder, kan ikke deltage i valget af delegerede eller
-lade sig vælge til delegeret til Landsforeningen PROSAs
-delegeretforsamling. Disse medlemmer indgår ligeledes ikke i
-opgørelsen af antallet af aktive medlemmer på studiestederne ved
-tildeling af delegeretkvote for studiestederne.
-
-###Stk. 2.
-De i stk. 1. omfattede medlemmer kan ikke repræsentere
-PROSA/STUD i noget forum i landsforeningen PROSA, f.eks.
-lokalafdelingssammensatte udvalg, Hovedbestyrelse mv. såfremt de
-der repræsenterer en anden afdeling.
-
-## § 14 VEDTÆGTSÆNDRINGER
+## § 13 VEDTÆGTSÆNDRINGER
 ### Stk. 1.
 Vedtægtsændringer kan vedtages med 2/3 af de afgivne stemmer på
 en generalforsamling. Ved afstemningen skal der enten stemmes for
 eller imod.
 
-## § 15 FORENINGENS OPLØSNING
+## § 14 FORENINGENS OPLØSNING
 ### Stk. 1.
 Foreningens opløsning er betinget af, at vedtagelse herom sker på 2
 på hinanden følgende generalforsamlinger. Ved begge
