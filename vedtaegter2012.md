@@ -37,11 +37,6 @@ SU-berettiget ungdoms- eller videregående uddannelse eller anden offentligt
 støttet uddannelse indenfor PROSAs optageområde.
 
 ### Stk. 2.
-Personer, der sideløbende med it-uddannelsen har it-fagligt arbejde og på den
-baggrund betaler det af PROSA fastsatte kontingent, kan kun optages med
-begrænsede medlemsrettigheder, jvf. § 13.
-
-### Stk. 3.
 Optagelse sker ved indmeldelse via hjemmesiden, henvendelse til PROSAs
 sekretariater eller gennem en tilknyttet lokalorganisation, der har aftale om
 at kunne optage medlemmer til PROSA/STUD.  Tvivlsspørgsmål afgøres af
