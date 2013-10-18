@@ -53,6 +53,8 @@ Der opkræves ikke kontingent til PROSA/STUD.
 PROSA/STUDs arbejde udføres gennem følgende organer:
 - Generalforsamlingen.
 - Bestyrelsen.
+- Lokale foreninger på studiestederne og andre lokalt forankrede aktive
+  medlemmer
 
 ## §7 GENERALFORSAMLING
 
