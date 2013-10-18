@@ -3,8 +3,8 @@
 ## §1 NAVN OG HJEMSTED
 
 ### Stk. 1.
-Foreningens navn er Lokalafdelingen for studerende i PROSA, forkortet
-PROSA/STUD.
+Foreningens navn er PROSA/STUD, med tilhørende payoff
+"Fagforening af It-studerende".
 
 ### Stk. 2.
 Foreningens hjemsted er Odense.
