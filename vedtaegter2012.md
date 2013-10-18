@@ -50,12 +50,12 @@ bestyrelsen.
 ## §5 KONTINGENT
 
 ### Stk. 1.
-Der opkræves ikke kontingent til lokalafdelingen.
+Der opkræves ikke kontingent til PROSA/STUD.
 
 ## §6 STRUKTUR
 
 ### Stk. 1.
-Lokalafdelingens arbejde udføres gennem følgende organer:
+PROSA/STUDs arbejde udføres gennem følgende organer:
 - Generalforsamlingen.
 - Bestyrelsen.
 
@@ -160,7 +160,7 @@ Til alle møder i foreningens organer har ethvert medlem møde- og taleret.
 ## § 11 INDGÅELSE AF GENERELLE AFTALER
 
 ### Stk. 1.
-Lokalafdelingen kan ikke indgå kollektive aftaler vedr. løn- og arbejdsforhold.
+PROSA/STUD kan ikke indgå kollektive aftaler vedr. løn- og arbejdsforhold.
 Sådanne aftaler kan udelukkende indgås af de pågældende medlemmers arbejdsplads
 lokalafdeling.
 
@@ -219,7 +219,7 @@ generalforsamlinger skal opløsningen vedtages med mindst 2/3 af
 afgivne stemmer for.
 
 ### Stk. 2.
-Ved opløsning af lokalafdelingen overgår foreningens midler til
+Ved opløsning af PROSA/STUD overgår foreningens midler til
 Landsforeningen PROSA.
 
 ---
