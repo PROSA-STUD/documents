@@ -3,8 +3,7 @@
 ## §1 NAVN OG HJEMSTED
 
 ### Stk. 1.
-Foreningens navn er Lokalafdelingen for studerende i PROSA, forkortet
-PROSA/STUD.
+Foreningens navn er PROSA/STUD - Fagforening af It-studerende.
 
 ### Stk. 2.
 Foreningens hjemsted er Odense.
@@ -37,11 +36,6 @@ SU-berettiget ungdoms- eller videregående uddannelse eller anden offentligt
 støttet uddannelse indenfor PROSAs optageområde.
 
 ### Stk. 2.
-Personer, der sideløbende med it-uddannelsen har it-fagligt arbejde og på den
-baggrund betaler det af PROSA fastsatte kontingent, kan kun optages med
-begrænsede medlemsrettigheder, jvf. § 13.
-
-### Stk. 3.
 Optagelse sker ved indmeldelse via hjemmesiden, henvendelse til PROSAs
 sekretariater eller gennem en tilknyttet lokalorganisation, der har aftale om
 at kunne optage medlemmer til PROSA/STUD.  Tvivlsspørgsmål afgøres af
@@ -50,14 +44,16 @@ bestyrelsen.
 ## §5 KONTINGENT
 
 ### Stk. 1.
-Der opkræves ikke kontingent til lokalafdelingen.
+Der opkræves ikke kontingent til lokalforeningen PROSA/STUD.
 
 ## §6 STRUKTUR
 
 ### Stk. 1.
-Lokalafdelingens arbejde udføres gennem følgende organer:
+Lokalforeningen PROSA/STUDs arbejde udføres gennem følgende organer:
 - Generalforsamlingen.
 - Bestyrelsen.
+- Lokale foreninger på studiestederne og andre lokalt forankrede aktive
+  medlemmer
 
 ## §7 GENERALFORSAMLING
 
@@ -79,33 +75,34 @@ bestyrelsen senest 14 dage før generalforsamlingen.
 
 ### Stk. 4.
 Dagsordenen for den ordinære generalforsamling skal omfatte følgende punkter:
-a) Valg af dirigent og referent.
-b) Godkendelse af beslutningsdygtighed.
-c) Bestyrelsens beretning.
-d) Fremlæggelse af det reviderede regnskab.
-e) Bestyrelsens fremlæggelse af arbejdsplan.
-f) Behandling af og afstemning om indkomne forslag.
-g) Bestyrelsens forslag til budget.
-h) Valg af bestyrelse.
-i) Valg af bestyrelsessuppleanter.
-j) Valg af revisor.
-k) Valg af revisorsuppleant.
-l) Valg af supplerende delegerede til PROSAs delegeretforsamling.
-m) Eventuelt.
+
+1. Valg af dirigent og referent.
+2. Godkendelse af beslutningsdygtighed.
+3. Bestyrelsens beretning.
+4. Fremlæggelse af det reviderede regnskab.
+5. Bestyrelsens fremlæggelse af arbejdsplan.
+6. Behandling af og afstemning om indkomne forslag.
+7. Bestyrelsens forslag til budget.
+8. Valg af bestyrelse.
+9. Valg af bestyrelsessuppleanter.
+10. Valg af revisor.
+11. Valg af revisorsuppleant.
+12. Valg af supplerende delegerede til PROSAs delegeretforsamling.
+13. Eventuelt.
 
 ### Stk. 5.
 Generalforsamlingens afgørelser træffes ved almindeligt
 stemmeflertal blandt de fremmødte. Dog gælder særlige
 afstemningsregler ved:
-a) Vedtægtsændringer, jvf. § 13.
-b) Foreningens opløsning, jvf. § 14, stk. 7.
+* Vedtægtsændringer, jvf. § 13.
+* Foreningens opløsning, jvf. § 14, stk. 7.
 
 ### Stk. 6.
 Ekstraordinær generalforsamling afholdes når:
-a) Bestyrelsens flertal ønsker det.
-b) En generalforsamlings flertal finder det
+* Bestyrelsens flertal ønsker det.
+* En generalforsamlings flertal finder det
 nødvendigt.
-c) Mindst en tredjedel af foreningens medlemmer
+* Mindst en tredjedel af foreningens medlemmer
 skriftligt fremsætter krav herom til bestyrelsen.
 Indkaldelse skal ske med mindst 1 uges varsel og senest i løbet af 2
 måneder.
@@ -160,7 +157,7 @@ Til alle møder i foreningens organer har ethvert medlem møde- og taleret.
 ## § 11 INDGÅELSE AF GENERELLE AFTALER
 
 ### Stk. 1.
-Lokalafdelingen kan ikke indgå kollektive aftaler vedr. løn- og arbejdsforhold.
+Lokalforeningen PROSA/STUD kan ikke indgå kollektive aftaler vedr. løn- og arbejdsforhold.
 Sådanne aftaler kan udelukkende indgås af de pågældende medlemmers arbejdsplads
 lokalafdeling.
 
@@ -169,9 +166,9 @@ Andre generelle aftaler kan indgås af bestyrelsen.
 
 ### Stk. 3.
 Spørgsmål kan afklares ved urafstemning, hvis:
-a) Bestyrelsens flertal ønsker det
-b) Generalforsamlingens flertal finder det nødvendigt.
-c) Mindst en tiendedel af foreningens medlemmer skriftligt fremsætter krav
+* Bestyrelsens flertal ønsker det
+* Generalforsamlingens flertal finder det nødvendigt.
+* Mindst en tiendedel af foreningens medlemmer skriftligt fremsætter krav
    herom til bestyrelsen.
 
 ## § 12 UDMELDELSE/EKSKLUSION
@@ -189,29 +186,13 @@ Eksklusion kan af den ekskluderede forlanges behandlet på førstkommende
 generalforsamling, til hvilken vedkommende har møde- og taleret. Behandling
 skal finde sted umiddelbart efter godkendelse af beslutningsdygtighed.
 
-## § 13
-### Stk. 1.
-INTERESSEMEDLEMSKAB
-Personer, der jvf. § 4 stk. 2. er optaget med begrænsede
-medlemsrettigheder, kan ikke deltage i valget af delegerede eller
-lade sig vælge til delegeret til Landsforeningen PROSAs
-delegeretforsamling. Disse medlemmer indgår ligeledes ikke i
-opgørelsen af antallet af aktive medlemmer på studiestederne ved
-tildeling af delegeretkvote for studiestederne.
-
-###Stk. 2.
-De i stk. 1. omfattede medlemmer kan ikke repræsentere
-PROSA/STUD i noget forum i landsforeningen PROSA, f.eks.
-lokalafdelingssammensatte udvalg, Hovedbestyrelse mv. såfremt de
-der repræsenterer en anden afdeling.
-
-## § 14 VEDTÆGTSÆNDRINGER
+## § 13 VEDTÆGTSÆNDRINGER
 ### Stk. 1.
 Vedtægtsændringer kan vedtages med 2/3 af de afgivne stemmer på
 en generalforsamling. Ved afstemningen skal der enten stemmes for
 eller imod.
 
-## § 15 FORENINGENS OPLØSNING
+## § 14 FORENINGENS OPLØSNING
 ### Stk. 1.
 Foreningens opløsning er betinget af, at vedtagelse herom sker på 2
 på hinanden følgende generalforsamlinger. Ved begge
@@ -219,9 +200,9 @@ generalforsamlinger skal opløsningen vedtages med mindst 2/3 af
 afgivne stemmer for.
 
 ### Stk. 2.
-Ved opløsning af lokalafdelingen overgår foreningens midler til
+Ved opløsning af lokalforeningen PROSA/STUD overgår foreningens midler til
 Landsforeningen PROSA.
 
 ---
 
-Vedtægterne er senest ændret på generalforsamlingen 8. oktober 2012.
+Vedtægterne er senest ændret på generalforsamlingen 27. oktober 2013.
