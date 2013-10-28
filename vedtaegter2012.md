@@ -75,20 +75,20 @@ bestyrelsen senest 14 dage før generalforsamlingen.
 
 ### Stk. 4.
 Dagsordenen for den ordinære generalforsamling skal omfatte følgende punkter:
-1. Valg af dirigent og referent.
 
-1. Godkendelse af beslutningsdygtighed.
-2. Bestyrelsens beretning.
-3. Fremlæggelse af det reviderede regnskab.
-4. Bestyrelsens fremlæggelse af arbejdsplan.
-5. Behandling af og afstemning om indkomne forslag.
-6. Bestyrelsens forslag til budget.
-7. Valg af bestyrelse.
-8. Valg af bestyrelsessuppleanter.
-9. Valg af revisor.
-10. Valg af revisorsuppleant.
-11. Valg af supplerende delegerede til PROSAs delegeretforsamling.
-12. Eventuelt.
+1. Valg af dirigent og referent.
+2. Godkendelse af beslutningsdygtighed.
+3. Bestyrelsens beretning.
+4. Fremlæggelse af det reviderede regnskab.
+5. Bestyrelsens fremlæggelse af arbejdsplan.
+6. Behandling af og afstemning om indkomne forslag.
+7. Bestyrelsens forslag til budget.
+8. Valg af bestyrelse.
+9. Valg af bestyrelsessuppleanter.
+10. Valg af revisor.
+11. Valg af revisorsuppleant.
+12. Valg af supplerende delegerede til PROSAs delegeretforsamling.
+13. Eventuelt.
 
 ### Stk. 5.
 Generalforsamlingens afgørelser træffes ved almindeligt
