@@ -75,33 +75,34 @@ bestyrelsen senest 14 dage før generalforsamlingen.
 
 ### Stk. 4.
 Dagsordenen for den ordinære generalforsamling skal omfatte følgende punkter:
-a) Valg af dirigent og referent.
-b) Godkendelse af beslutningsdygtighed.
-c) Bestyrelsens beretning.
-d) Fremlæggelse af det reviderede regnskab.
-e) Bestyrelsens fremlæggelse af arbejdsplan.
-f) Behandling af og afstemning om indkomne forslag.
-g) Bestyrelsens forslag til budget.
-h) Valg af bestyrelse.
-i) Valg af bestyrelsessuppleanter.
-j) Valg af revisor.
-k) Valg af revisorsuppleant.
-l) Valg af supplerende delegerede til PROSAs delegeretforsamling.
-m) Eventuelt.
+1. Valg af dirigent og referent.
+
+1. Godkendelse af beslutningsdygtighed.
+2. Bestyrelsens beretning.
+3. Fremlæggelse af det reviderede regnskab.
+4. Bestyrelsens fremlæggelse af arbejdsplan.
+5. Behandling af og afstemning om indkomne forslag.
+6. Bestyrelsens forslag til budget.
+7. Valg af bestyrelse.
+8. Valg af bestyrelsessuppleanter.
+9. Valg af revisor.
+10. Valg af revisorsuppleant.
+11. Valg af supplerende delegerede til PROSAs delegeretforsamling.
+12. Eventuelt.
 
 ### Stk. 5.
 Generalforsamlingens afgørelser træffes ved almindeligt
 stemmeflertal blandt de fremmødte. Dog gælder særlige
 afstemningsregler ved:
-a) Vedtægtsændringer, jvf. § 13.
-b) Foreningens opløsning, jvf. § 14, stk. 7.
+* Vedtægtsændringer, jvf. § 13.
+* Foreningens opløsning, jvf. § 14, stk. 7.
 
 ### Stk. 6.
 Ekstraordinær generalforsamling afholdes når:
-a) Bestyrelsens flertal ønsker det.
-b) En generalforsamlings flertal finder det
+* Bestyrelsens flertal ønsker det.
+* En generalforsamlings flertal finder det
 nødvendigt.
-c) Mindst en tredjedel af foreningens medlemmer
+* Mindst en tredjedel af foreningens medlemmer
 skriftligt fremsætter krav herom til bestyrelsen.
 Indkaldelse skal ske med mindst 1 uges varsel og senest i løbet af 2
 måneder.
@@ -165,9 +166,9 @@ Andre generelle aftaler kan indgås af bestyrelsen.
 
 ### Stk. 3.
 Spørgsmål kan afklares ved urafstemning, hvis:
-a) Bestyrelsens flertal ønsker det
-b) Generalforsamlingens flertal finder det nødvendigt.
-c) Mindst en tiendedel af foreningens medlemmer skriftligt fremsætter krav
+* Bestyrelsens flertal ønsker det
+* Generalforsamlingens flertal finder det nødvendigt.
+* Mindst en tiendedel af foreningens medlemmer skriftligt fremsætter krav
    herom til bestyrelsen.
 
 ## § 12 UDMELDELSE/EKSKLUSION
