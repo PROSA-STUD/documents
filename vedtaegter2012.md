@@ -3,8 +3,7 @@
 ## §1 NAVN OG HJEMSTED
 
 ### Stk. 1.
-Foreningens navn er PROSA/STUD, med tilhørende payoff
-"Fagforening af It-studerende".
+Foreningens navn er PROSA/STUD - Fagforening af It-studerende.
 
 ### Stk. 2.
 Foreningens hjemsted er Odense.
@@ -45,12 +44,12 @@ bestyrelsen.
 ## §5 KONTINGENT
 
 ### Stk. 1.
-Der opkræves ikke kontingent til PROSA/STUD.
+Der opkræves ikke kontingent til lokalforeningen PROSA/STUD.
 
 ## §6 STRUKTUR
 
 ### Stk. 1.
-PROSA/STUDs arbejde udføres gennem følgende organer:
+Lokalforeningen PROSA/STUDs arbejde udføres gennem følgende organer:
 - Generalforsamlingen.
 - Bestyrelsen.
 - Lokale foreninger på studiestederne og andre lokalt forankrede aktive
@@ -157,7 +156,7 @@ Til alle møder i foreningens organer har ethvert medlem møde- og taleret.
 ## § 11 INDGÅELSE AF GENERELLE AFTALER
 
 ### Stk. 1.
-PROSA/STUD kan ikke indgå kollektive aftaler vedr. løn- og arbejdsforhold.
+Lokalforeningen PROSA/STUD kan ikke indgå kollektive aftaler vedr. løn- og arbejdsforhold.
 Sådanne aftaler kan udelukkende indgås af de pågældende medlemmers arbejdsplads
 lokalafdeling.
 
@@ -200,9 +199,9 @@ generalforsamlinger skal opløsningen vedtages med mindst 2/3 af
 afgivne stemmer for.
 
 ### Stk. 2.
-Ved opløsning af PROSA/STUD overgår foreningens midler til
+Ved opløsning af lokalforeningen PROSA/STUD overgår foreningens midler til
 Landsforeningen PROSA.
 
 ---
 
-Vedtægterne er senest ændret på generalforsamlingen 8. oktober 2012.
+Vedtægterne er senest ændret på generalforsamlingen 27. oktober 2013.
